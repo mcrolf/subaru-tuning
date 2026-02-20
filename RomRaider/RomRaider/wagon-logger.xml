@@ -93,7 +93,7 @@
         <parameter id="E72" units="psi relative"/>
         <parameter id="P2" dash="selected" units="F"/>
         <parameter id="E75" units="estimated AFR"/>
-        <parameter id="P3" units="%"/>
+        <parameter id="P3" dash="selected" units="%"/>
         <parameter id="E74" units="estimated AFR"/>
         <parameter id="P4" dash="selected" units="%"/>
         <parameter id="E76" units="estimated AFR"/>
