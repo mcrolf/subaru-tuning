@@ -2,7 +2,7 @@
 <profile protocol="SSM">
     <parameters>
         <parameter id="P61" units="A"/>
-        <parameter id="E1" units="raw ecu value"/>
+        <parameter id="E1" dash="selected" units="raw ecu value"/>
         <parameter id="E2" units="g/rev"/>
         <parameter id="P65" units="%"/>
         <parameter id="E3" units="status"/>
@@ -32,10 +32,10 @@
         <parameter id="E22" units="degrees"/>
         <parameter id="P243" units="%"/>
         <parameter id="E21" units="psi relative sea level"/>
-        <parameter id="P242" units="%"/>
+        <parameter id="P242" dash="selected" units="%"/>
         <parameter id="P201" dash="selected" units="%"/>
         <parameter id="E24" units="raw enrichment value"/>
-        <parameter id="P200" units="g/rev"/>
+        <parameter id="P200" dash="selected" units="g/rev"/>
         <parameter id="E23" units="%"/>
         <parameter id="E26" units="index position"/>
         <parameter id="E25" units="position"/>
